@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vpn_session_name">VPNBlockADS</string>
+    <string name="vpn_channel_name">Trạng thái chặn quảng cáo</string>
+    <string name="vpn_running_title">Đang chặn quảng cáo</string>
+    <string name="vpn_running_text">Đã chặn %1$d truy vấn trong phiên này</string>
+    <string name="vpn_stopped_title">Chặn quảng cáo đã tắt</string>
+    <string name="vpn_stopped_text">Chạm \"Bật\" để tiếp tục chặn</string>
+    <string name="vpn_permission_title">Cần cấp quyền VPN</string>
+    <string name="vpn_permission_text">Mở app để cấp quyền rồi bật lại</string>
+    <string name="vpn_action_stop">Tắt</string>
+    <string name="vpn_action_start">Bật</string>
+    <string name="vpn_error_permission">Chưa được cấp quyền VPN</string>
+    <string name="vpn_error_establish">Không tạo được giao diện VPN</string>
+    <string name="vpn_error_tun">Giao diện VPN bị đóng bất ngờ</string>
+</resources>
